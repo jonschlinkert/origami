@@ -1,0 +1,10 @@
+{
+  "name": "origami",
+  "main": [
+    "lib/origami"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.3"
+  },
+  "version": "0.1.0"
+}
